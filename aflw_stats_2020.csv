@@ -1,0 +1,249 @@
+match_id,season,round_number,total_score,temperature,match_title,home_away,behinds,goals,ratio,score,scorediff,team
+CD_M20172640101,2017,1,57,18,Carlton vs Collingwood,away,5,1,0.2,11,-35,Collingwood
+CD_M20172640101,2017,1,57,18,Carlton vs Collingwood,home,4,7,1.75,46,35,Carlton
+CD_M20172640102,2017,1,60,18,Adelaide Crows vs GWS Giants,away,6,1,0.166666667,12,-36,GWS Giants
+CD_M20172640102,2017,1,60,18,Adelaide Crows vs GWS Giants,home,6,7,1.166666667,48,36,Adelaide Crows
+CD_M20172640103,2017,1,56,18,Western Bulldogs vs Fremantle,away,6,1,0.166666667,12,-32,Fremantle
+CD_M20172640103,2017,1,56,18,Western Bulldogs vs Fremantle,home,8,6,0.75,44,32,Western Bulldogs
+CD_M20172640104,2017,1,35,18,Melbourne vs Brisbane Lions,away,1,4,4,25,15,Brisbane Lions
+CD_M20172640104,2017,1,35,18,Melbourne vs Brisbane Lions,home,4,1,0.25,10,-15,Melbourne
+CD_M20172640201,2017,2,71,18,Western Bulldogs vs Adelaide Crows,away,6,7,1.166666667,48,25,Adelaide Crows
+CD_M20172640201,2017,2,71,18,Western Bulldogs vs Adelaide Crows,home,11,2,0.181818182,23,-25,Western Bulldogs
+CD_M20172640202,2017,2,81,18,Carlton vs GWS Giants,away,4,5,1.25,34,-13,GWS Giants
+CD_M20172640202,2017,2,81,18,Carlton vs GWS Giants,home,5,7,1.4,47,13,Carlton
+CD_M20172640203,2017,2,69,18,Collingwood vs Melbourne,away,2,7,3.5,44,19,Melbourne
+CD_M20172640203,2017,2,69,18,Collingwood vs Melbourne,home,1,4,4,25,-19,Collingwood
+CD_M20172640204,2017,2,59,18,Fremantle vs Brisbane Lions,away,6,5,0.833333333,36,13,Brisbane Lions
+CD_M20172640204,2017,2,59,18,Fremantle vs Brisbane Lions,home,5,3,0.6,23,-13,Fremantle
+CD_M20172640301,2017,3,86,18,GWS Giants vs Fremantle,away,7,6,0.857142857,43,0,Fremantle
+CD_M20172640301,2017,3,86,18,GWS Giants vs Fremantle,home,1,7,7,43,0,GWS Giants
+CD_M20172640302,2017,3,50,18,Brisbane Lions vs Collingwood,away,5,3,0.6,23,-4,Collingwood
+CD_M20172640302,2017,3,50,18,Brisbane Lions vs Collingwood,home,3,4,1.333333333,27,4,Brisbane Lions
+CD_M20172640303,2017,3,72,18,Western Bulldogs vs Melbourne,away,7,6,0.857142857,43,14,Melbourne
+CD_M20172640303,2017,3,72,18,Western Bulldogs vs Melbourne,home,5,4,0.8,29,-14,Western Bulldogs
+CD_M20172640304,2017,3,31,21,Adelaide Crows vs Carlton,away,2,2,1,14,-3,Carlton
+CD_M20172640304,2017,3,31,21,Adelaide Crows vs Carlton,home,5,2,0.4,17,3,Adelaide Crows
+CD_M20172640401,2017,4,78,18,Melbourne vs Carlton,away,6,5,0.833333333,36,-6,Carlton
+CD_M20172640401,2017,4,78,18,Melbourne vs Carlton,home,6,6,1,42,6,Melbourne
+CD_M20172640402,2017,4,52,18,Brisbane Lions vs GWS Giants,away,3,1,0.333333333,9,-34,GWS Giants
+CD_M20172640402,2017,4,52,18,Brisbane Lions vs GWS Giants,home,7,6,0.857142857,43,34,Brisbane Lions
+CD_M20172640403,2017,4,57,18,Western Bulldogs vs Collingwood,away,2,5,2.5,32,7,Collingwood
+CD_M20172640403,2017,4,57,18,Western Bulldogs vs Collingwood,home,7,3,0.428571429,25,-7,Western Bulldogs
+CD_M20172640404,2017,4,69,18,Fremantle vs Adelaide Crows,away,10,6,0.6,46,23,Adelaide Crows
+CD_M20172640404,2017,4,69,18,Fremantle vs Adelaide Crows,home,5,3,0.6,23,-23,Fremantle
+CD_M20172640501,2017,5,35,18,GWS Giants vs Melbourne,away,9,1,0.111111111,15,-5,Melbourne
+CD_M20172640501,2017,5,35,18,GWS Giants vs Melbourne,home,2,3,1.5,20,5,GWS Giants
+CD_M20172640502,2017,5,102,28,Carlton vs Western Bulldogs,away,6,7,1.166666667,48,-6,Western Bulldogs
+CD_M20172640502,2017,5,102,28,Carlton vs Western Bulldogs,home,6,8,1.333333333,54,6,Carlton
+CD_M20172640503,2017,5,63,18,Fremantle vs Collingwood,away,2,5,2.5,32,1,Collingwood
+CD_M20172640503,2017,5,63,18,Fremantle vs Collingwood,home,7,4,0.571428571,31,-1,Fremantle
+CD_M20172640504,2017,5,63,33,Adelaide Crows vs Brisbane Lions,away,3,5,1.666666667,33,3,Brisbane Lions
+CD_M20172640504,2017,5,63,33,Adelaide Crows vs Brisbane Lions,home,6,4,0.666666667,30,-3,Adelaide Crows
+CD_M20172640601,2017,6,70,32,Fremantle vs Carlton,away,3,4,1.333333333,27,-16,Carlton
+CD_M20172640601,2017,6,70,32,Fremantle vs Carlton,home,7,6,0.857142857,43,16,Fremantle
+CD_M20172640602,2017,6,39,31,Brisbane Lions vs Western Bulldogs,away,4,2,0.5,16,-7,Western Bulldogs
+CD_M20172640602,2017,6,39,31,Brisbane Lions vs Western Bulldogs,home,11,2,0.181818182,23,7,Brisbane Lions
+CD_M20172640603,2017,6,66,33,Adelaide Crows vs Melbourne,away,4,5,1.25,34,2,Melbourne
+CD_M20172640603,2017,6,66,33,Adelaide Crows vs Melbourne,home,2,5,2.5,32,-2,Adelaide Crows
+CD_M20172640604,2017,6,74,29,Collingwood vs GWS Giants,away,1,3,3,19,-36,GWS Giants
+CD_M20172640604,2017,6,74,29,Collingwood vs GWS Giants,home,13,7,0.538461538,55,36,Collingwood
+CD_M20172640701,2017,7,86,18,Melbourne vs Fremantle,away,4,2,0.5,16,-54,Fremantle
+CD_M20172640701,2017,7,86,18,Melbourne vs Fremantle,home,4,11,2.75,70,54,Melbourne
+CD_M20172640702,2017,7,72,18,GWS Giants vs Western Bulldogs,away,10,7,0.7,52,32,Western Bulldogs
+CD_M20172640702,2017,7,72,18,GWS Giants vs Western Bulldogs,home,2,3,1.5,20,-32,GWS Giants
+CD_M20172640703,2017,7,116,32,Collingwood vs Adelaide Crows,away,10,10,1,70,24,Adelaide Crows
+CD_M20172640703,2017,7,116,32,Collingwood vs Adelaide Crows,home,4,7,1.75,46,-24,Collingwood
+CD_M20172640704,2017,7,74,18,Carlton vs Brisbane Lions,away,7,5,0.714285714,37,0,Brisbane Lions
+CD_M20172640704,2017,7,74,18,Carlton vs Brisbane Lions,home,1,6,6,37,0,Carlton
+CD_M20172640801,2017,8,64,28,Brisbane Lions vs Adelaide Crows,away,11,4,0.363636364,35,6,Adelaide Crows
+CD_M20172640801,2017,8,64,28,Brisbane Lions vs Adelaide Crows,home,5,4,0.8,29,-6,Brisbane Lions
+CD_M20182640101,2018,1,36,18,Carlton vs Collingwood,away,2,2,1,14,-8,Collingwood
+CD_M20182640101,2018,1,36,18,Carlton vs Collingwood,home,4,3,0.75,22,8,Carlton
+CD_M20182640102,2018,1,84,18,Melbourne vs GWS Giants,away,3,6,2,39,-6,GWS Giants
+CD_M20182640102,2018,1,84,18,Melbourne vs GWS Giants,home,3,7,2.333333333,45,6,Melbourne
+CD_M20182640103,2018,1,50,18,Adelaide Crows vs Brisbane Lions,away,7,4,0.571428571,31,12,Brisbane Lions
+CD_M20182640103,2018,1,50,18,Adelaide Crows vs Brisbane Lions,home,1,3,3,19,-12,Adelaide Crows
+CD_M20182640104,2018,1,72,18,Western Bulldogs vs Fremantle,away,5,3,0.6,23,-26,Fremantle
+CD_M20182640104,2018,1,72,18,Western Bulldogs vs Fremantle,home,7,7,1,49,26,Western Bulldogs
+CD_M20182640201,2018,2,39,18,GWS Giants vs Carlton,away,12,3,0.25,30,21,Carlton
+CD_M20182640201,2018,2,39,18,GWS Giants vs Carlton,home,3,1,0.333333333,9,-21,GWS Giants
+CD_M20182640202,2018,2,80,18,Melbourne vs Adelaide Crows,away,0,4,Inf,24,-32,Adelaide Crows
+CD_M20182640202,2018,2,80,18,Melbourne vs Adelaide Crows,home,8,8,1,56,32,Melbourne
+CD_M20182640203,2018,2,67,18,Fremantle vs Collingwood,away,3,4,1.333333333,27,-13,Collingwood
+CD_M20182640203,2018,2,67,18,Fremantle vs Collingwood,home,4,6,1.5,40,13,Fremantle
+CD_M20182640204,2018,2,57,18,Brisbane Lions vs Western Bulldogs,away,3,5,1.666666667,33,9,Western Bulldogs
+CD_M20182640204,2018,2,57,18,Brisbane Lions vs Western Bulldogs,home,6,3,0.5,24,-9,Brisbane Lions
+CD_M20182640301,2018,3,75,18,Adelaide Crows vs Western Bulldogs,away,4,5,1.25,34,-7,Western Bulldogs
+CD_M20182640301,2018,3,75,18,Adelaide Crows vs Western Bulldogs,home,5,6,1.2,41,7,Adelaide Crows
+CD_M20182640302,2018,3,58,18,Carlton vs Brisbane Lions,away,4,6,1.5,40,22,Brisbane Lions
+CD_M20182640302,2018,3,58,18,Carlton vs Brisbane Lions,home,6,2,0.333333333,18,-22,Carlton
+CD_M20182640303,2018,3,83,18,Collingwood vs GWS Giants,away,6,7,1.166666667,48,13,GWS Giants
+CD_M20182640303,2018,3,83,18,Collingwood vs GWS Giants,home,5,5,1,35,-13,Collingwood
+CD_M20182640304,2018,3,67,18,Fremantle vs Melbourne,away,7,4,0.571428571,31,-5,Melbourne
+CD_M20182640304,2018,3,67,18,Fremantle vs Melbourne,home,0,6,Inf,36,5,Fremantle
+CD_M20182640401,2018,4,99,18,Western Bulldogs vs Carlton,away,1,2,2,13,-73,Carlton
+CD_M20182640401,2018,4,99,18,Western Bulldogs vs Carlton,home,14,12,0.857142857,86,73,Western Bulldogs
+CD_M20182640402,2018,4,37,18,Brisbane Lions vs Fremantle,away,3,2,0.666666667,15,-7,Fremantle
+CD_M20182640402,2018,4,37,18,Brisbane Lions vs Fremantle,home,4,3,0.75,22,7,Brisbane Lions
+CD_M20182640403,2018,4,82,18,Melbourne vs Collingwood,away,4,9,2.25,58,34,Collingwood
+CD_M20182640403,2018,4,82,18,Melbourne vs Collingwood,home,6,3,0.5,24,-34,Melbourne
+CD_M20182640404,2018,4,38,18,GWS Giants vs Adelaide Crows,away,7,2,0.285714286,19,0,Adelaide Crows
+CD_M20182640404,2018,4,38,18,GWS Giants vs Adelaide Crows,home,7,2,0.285714286,19,0,GWS Giants
+CD_M20182640501,2018,5,62,18,Melbourne vs Brisbane Lions,away,4,4,1,28,-6,Brisbane Lions
+CD_M20182640501,2018,5,62,18,Melbourne vs Brisbane Lions,home,10,4,0.4,34,6,Melbourne
+CD_M20182640502,2018,5,60,18,Fremantle vs GWS Giants,away,3,6,2,39,18,GWS Giants
+CD_M20182640502,2018,5,60,18,Fremantle vs GWS Giants,home,3,3,1,21,-18,Fremantle
+CD_M20182640503,2018,5,75,18,Adelaide Crows vs Carlton,away,8,2,0.25,20,-35,Carlton
+CD_M20182640503,2018,5,75,18,Adelaide Crows vs Carlton,home,7,8,1.142857143,55,35,Adelaide Crows
+CD_M20182640504,2018,5,90,24,Collingwood vs Western Bulldogs,away,7,7,1,49,8,Western Bulldogs
+CD_M20182640504,2018,5,90,24,Collingwood vs Western Bulldogs,home,5,6,1.2,41,-8,Collingwood
+CD_M20182640601,2018,6,76,18,Adelaide Crows vs Fremantle,away,6,5,0.833333333,36,-4,Fremantle
+CD_M20182640601,2018,6,76,18,Adelaide Crows vs Fremantle,home,4,6,1.5,40,4,Adelaide Crows
+CD_M20182640602,2018,6,92,18,Brisbane Lions vs Collingwood,away,5,8,1.6,53,14,Collingwood
+CD_M20182640602,2018,6,92,18,Brisbane Lions vs Collingwood,home,9,5,0.555555556,39,-14,Brisbane Lions
+CD_M20182640603,2018,6,74,18,GWS Giants vs Western Bulldogs,away,4,4,1,28,-18,Western Bulldogs
+CD_M20182640603,2018,6,74,18,GWS Giants vs Western Bulldogs,home,4,7,1.75,46,18,GWS Giants
+CD_M20182640604,2018,6,79,18,Carlton vs Melbourne,away,9,8,0.888888889,57,35,Melbourne
+CD_M20182640604,2018,6,79,18,Carlton vs Melbourne,home,4,3,0.75,22,-35,Carlton
+CD_M20182640701,2018,7,88,18,GWS Giants vs Brisbane Lions,away,4,10,2.5,64,40,Brisbane Lions
+CD_M20182640701,2018,7,88,18,GWS Giants vs Brisbane Lions,home,6,3,0.5,24,-40,GWS Giants
+CD_M20182640702,2018,7,107,18,Fremantle vs Carlton,away,12,6,0.5,48,-11,Carlton
+CD_M20182640702,2018,7,107,18,Fremantle vs Carlton,home,5,9,1.8,59,11,Fremantle
+CD_M20182640703,2018,7,64,18,Western Bulldogs vs Melbourne,away,7,4,0.571428571,31,-2,Melbourne
+CD_M20182640703,2018,7,64,18,Western Bulldogs vs Melbourne,home,3,5,1.666666667,33,2,Western Bulldogs
+CD_M20182640704,2018,7,85,26,Collingwood vs Adelaide Crows,away,8,4,0.5,32,-21,Adelaide Crows
+CD_M20182640704,2018,7,85,26,Collingwood vs Adelaide Crows,home,5,8,1.6,53,21,Collingwood
+CD_M20182640801,2018,8,48,24,Western Bulldogs vs Brisbane Lions,away,3,3,1,21,-6,Brisbane Lions
+CD_M20182640801,2018,8,48,24,Western Bulldogs vs Brisbane Lions,home,3,4,1.333333333,27,6,Western Bulldogs
+CD_M20192640101,2019,1,47,33,Geelong Cats vs Collingwood,away,5,3,0.6,23,-1,Collingwood
+CD_M20192640101,2019,1,47,33,Geelong Cats vs Collingwood,home,6,3,0.5,24,1,Geelong Cats
+CD_M20192640102,2019,1,35,18,Adelaide Crows vs Western Bulldogs,home,11,1,0.090909091,17,-1,Adelaide Crows
+CD_M20192640102,2019,1,35,18,Adelaide Crows vs Western Bulldogs,away,6,2,0.333333333,18,1,Western Bulldogs
+CD_M20192640103,2019,1,68,29,Kangaroos vs Carlton,away,4,2,0.5,16,-36,Carlton
+CD_M20192640103,2019,1,68,29,Kangaroos vs Carlton,home,10,7,0.7,52,36,Kangaroos
+CD_M20192640104,2019,1,114,39,Melbourne vs Fremantle,away,5,9,1.8,59,4,Fremantle
+CD_M20192640104,2019,1,114,39,Melbourne vs Fremantle,home,7,8,1.142857143,55,-4,Melbourne
+CD_M20192640105,2019,1,56,18,Brisbane Lions vs GWS Giants,home,5,4,0.8,29,2,Brisbane Lions
+CD_M20192640105,2019,1,56,18,Brisbane Lions vs GWS Giants,away,3,4,1.333333333,27,-2,GWS Giants
+CD_M20192640201,2019,2,71,30,GWS Giants vs Kangaroos,home,11,2,0.181818182,23,-25,GWS Giants
+CD_M20192640201,2019,2,71,30,GWS Giants vs Kangaroos,away,6,7,1.166666667,48,25,Kangaroos
+CD_M20192640202,2019,2,35,20,Collingwood vs Melbourne,home,3,1,0.333333333,9,-17,Collingwood
+CD_M20192640202,2019,2,35,20,Collingwood vs Melbourne,away,8,3,0.375,26,17,Melbourne
+CD_M20192640203,2019,2,50,20,Western Bulldogs vs Geelong Cats,away,4,2,0.5,16,-18,Geelong Cats
+CD_M20192640203,2019,2,50,20,Western Bulldogs vs Geelong Cats,home,4,5,1.25,34,18,Western Bulldogs
+CD_M20192640204,2019,2,101,25,Carlton vs Adelaide Crows,away,3,9,3,57,13,Adelaide Crows
+CD_M20192640204,2019,2,101,25,Carlton vs Adelaide Crows,home,2,7,3.5,44,-13,Carlton
+CD_M20192640205,2019,2,107,18,Fremantle vs Brisbane Lions,away,4,6,1.5,40,-27,Brisbane Lions
+CD_M20192640205,2019,2,107,18,Fremantle vs Brisbane Lions,home,7,10,1.428571429,67,27,Fremantle
+CD_M20192640301,2019,3,75,26,Kangaroos vs Western Bulldogs,home,5,8,1.6,53,31,Kangaroos
+CD_M20192640301,2019,3,75,26,Kangaroos vs Western Bulldogs,away,4,3,0.75,22,-31,Western Bulldogs
+CD_M20192640302,2019,3,101,29,GWS Giants vs Carlton,away,5,10,2,65,29,Carlton
+CD_M20192640302,2019,3,101,29,GWS Giants vs Carlton,home,6,5,0.833333333,36,-29,GWS Giants
+CD_M20192640303,2019,3,69,18,Fremantle vs Collingwood,away,6,2,0.333333333,18,-33,Collingwood
+CD_M20192640303,2019,3,69,18,Fremantle vs Collingwood,home,9,7,0.777777778,51,33,Fremantle
+CD_M20192640304,2019,3,103,18,Adelaide Crows vs Geelong Cats,home,6,10,1.666666667,66,29,Adelaide Crows
+CD_M20192640304,2019,3,103,18,Adelaide Crows vs Geelong Cats,away,1,6,6,37,-29,Geelong Cats
+CD_M20192640305,2019,3,81,18,Brisbane Lions vs Melbourne,home,3,3,1,21,-39,Brisbane Lions
+CD_M20192640305,2019,3,81,18,Brisbane Lions vs Melbourne,away,6,9,1.5,60,39,Melbourne
+CD_M20192640401,2019,4,33,25,Geelong Cats vs Carlton,away,8,1,0.125,14,-5,Carlton
+CD_M20192640401,2019,4,33,25,Geelong Cats vs Carlton,home,7,2,0.285714286,19,5,Geelong Cats
+CD_M20192640402,2019,4,66,25,Western Bulldogs vs Brisbane Lions,away,7,7,1,49,32,Brisbane Lions
+CD_M20192640402,2019,4,66,25,Western Bulldogs vs Brisbane Lions,home,5,2,0.4,17,-32,Western Bulldogs
+CD_M20192640403,2019,4,88,18,Adelaide Crows vs Fremantle,home,11,9,0.818181818,65,42,Adelaide Crows
+CD_M20192640403,2019,4,88,18,Adelaide Crows vs Fremantle,away,5,3,0.6,23,-42,Fremantle
+CD_M20192640404,2019,4,63,29,Collingwood vs GWS Giants,home,3,4,1.333333333,27,-9,Collingwood
+CD_M20192640404,2019,4,63,29,Collingwood vs GWS Giants,away,6,5,0.833333333,36,9,GWS Giants
+CD_M20192640405,2019,4,72,32,Melbourne vs Kangaroos,away,2,6,3,38,4,Kangaroos
+CD_M20192640405,2019,4,72,32,Melbourne vs Kangaroos,home,4,5,1.25,34,-4,Melbourne
+CD_M20192640501,2019,5,43,18,Brisbane Lions vs Geelong Cats,home,2,1,0.5,8,-27,Brisbane Lions
+CD_M20192640501,2019,5,43,18,Brisbane Lions vs Geelong Cats,away,5,5,1,35,27,Geelong Cats
+CD_M20192640502,2019,5,63,37,Carlton vs Collingwood,home,10,4,0.4,34,5,Carlton
+CD_M20192640502,2019,5,63,37,Carlton vs Collingwood,away,5,4,0.8,29,-5,Collingwood
+CD_M20192640503,2019,5,75,33,GWS Giants vs Melbourne,home,6,2,0.333333333,18,-39,GWS Giants
+CD_M20192640503,2019,5,75,33,GWS Giants vs Melbourne,away,9,8,0.888888889,57,39,Melbourne
+CD_M20192640504,2019,5,93,37,Kangaroos vs Adelaide Crows,away,4,10,2.5,64,35,Adelaide Crows
+CD_M20192640504,2019,5,93,37,Kangaroos vs Adelaide Crows,home,5,4,0.8,29,-35,Kangaroos
+CD_M20192640505,2019,5,86,18,Fremantle vs Western Bulldogs,home,4,8,2,52,18,Fremantle
+CD_M20192640505,2019,5,86,18,Fremantle vs Western Bulldogs,away,4,5,1.25,34,-18,Western Bulldogs
+CD_M20192640601,2019,6,62,25,Geelong Cats vs Fremantle,away,13,6,0.461538462,49,36,Fremantle
+CD_M20192640601,2019,6,62,25,Geelong Cats vs Fremantle,home,1,2,2,13,-36,Geelong Cats
+CD_M20192640602,2019,6,84,26,Collingwood vs Kangaroos,home,1,5,5,31,-22,Collingwood
+CD_M20192640602,2019,6,84,26,Collingwood vs Kangaroos,away,11,7,0.636363636,53,22,Kangaroos
+CD_M20192640603,2019,6,77,26,Western Bulldogs vs Melbourne,away,9,5,0.555555556,39,1,Melbourne
+CD_M20192640603,2019,6,77,26,Western Bulldogs vs Melbourne,home,2,6,3,38,-1,Western Bulldogs
+CD_M20192640604,2019,6,86,18,Adelaide Crows vs GWS Giants,home,5,9,1.8,59,32,Adelaide Crows
+CD_M20192640604,2019,6,86,18,Adelaide Crows vs GWS Giants,away,3,4,1.333333333,27,-32,GWS Giants
+CD_M20192640605,2019,6,70,25,Carlton vs Brisbane Lions,away,3,4,1.333333333,27,-16,Brisbane Lions
+CD_M20192640605,2019,6,70,25,Carlton vs Brisbane Lions,home,7,6,0.857142857,43,16,Carlton
+CD_M20192640701,2019,7,51,26,GWS Giants vs Geelong Cats,away,4,1,0.25,10,-31,Geelong Cats
+CD_M20192640701,2019,7,51,26,GWS Giants vs Geelong Cats,home,5,6,1.2,41,31,GWS Giants
+CD_M20192640702,2019,7,76,29,Melbourne vs Adelaide Crows,away,8,10,1.25,68,60,Adelaide Crows
+CD_M20192640702,2019,7,76,29,Melbourne vs Adelaide Crows,home,2,1,0.5,8,-60,Melbourne
+CD_M20192640703,2019,7,77,18,Fremantle vs Kangaroos,home,10,7,0.7,52,27,Fremantle
+CD_M20192640703,2019,7,77,18,Fremantle vs Kangaroos,away,1,4,4,25,-27,Kangaroos
+CD_M20192640704,2019,7,44,26,Collingwood vs Brisbane Lions,away,7,2,0.285714286,19,-6,Brisbane Lions
+CD_M20192640704,2019,7,44,26,Collingwood vs Brisbane Lions,home,7,3,0.428571429,25,6,Collingwood
+CD_M20192640705,2019,7,79,26,Western Bulldogs vs Carlton,away,5,6,1.2,41,3,Carlton
+CD_M20192640705,2019,7,79,26,Western Bulldogs vs Carlton,home,8,5,0.625,38,-3,Western Bulldogs
+CD_M20192640801,2019,8,92,32,Carlton vs Fremantle,home,10,9,0.9,64,36,Carlton
+CD_M20192640801,2019,8,92,32,Carlton vs Fremantle,away,4,4,1,28,-36,Fremantle
+CD_M20192640802,2019,8,80,18,Adelaide Crows vs Geelong Cats,home,7,11,1.571428571,73,66,Adelaide Crows
+CD_M20192640802,2019,8,80,18,Adelaide Crows vs Geelong Cats,away,1,1,1,7,-66,Geelong Cats
+CD_M20192640901,2019,9,81,18,Adelaide Crows vs Carlton,home,3,10,3.333333333,63,45,Adelaide Crows
+CD_M20192640901,2019,9,81,18,Adelaide Crows vs Carlton,away,6,2,0.333333333,18,-45,Carlton
+CD_M2020XXX0101,2020,1,62,20,Richmond Tigers vs Carlton,home,2,2,1,14,-34,Richmond Tigers
+CD_M2020XXX0101,2020,1,62,20,Richmond Tigers vs Carlton,away,12,6,0.5,48,34,Carlton
+CD_M2020XXX0102,2020,1,17,21,GWS Giants vs Gold Coast Suns,home,3,1,0.333333333,9,1,GWS Giants
+CD_M2020XXX0102,2020,1,17,21,GWS Giants vs Gold Coast Suns,away,2,1,0.5,8,-1,Gold Coast Suns
+CD_M2020XXX0103,2020,1,42,28,Melbourne vs Kangaroos,home,4,3,0.75,22,2,Melbourne
+CD_M2020XXX0103,2020,1,42,28,Melbourne vs Kangaroos,away,2,3,1.5,20,-2,Kangaroos
+CD_M2020XXX0104,2020,1,55,26,Brisbane Lions vs Adelaide Crows,home,4,5,1.25,34,13,Brisbane Lions
+CD_M2020XXX0104,2020,1,55,26,Brisbane Lions vs Adelaide Crows,away,3,3,1,21,-13,Adelaide Crows
+CD_M2020XXX0105,2020,1,49,28,Collingwood vs West Coast Eagles,home,8,5,0.625,38,27,Collingwood
+CD_M2020XXX0105,2020,1,49,28,Collingwood vs West Coast Eagles,away,5,1,0.2,11,-27,West Coast Eagles
+CD_M2020XXX0106,2020,1,53,25,St Kilda vs Western Bulldogs,home,2,2,1,14,-25,St Kilda
+CD_M2020XXX0106,2020,1,53,25,St Kilda vs Western Bulldogs,away,3,6,2,39,25,Western Bulldogs
+CD_M2020XXX0107,2020,1,72,23,Fremantle vs Geelong Cats,home,8,6,0.75,44,16,Fremantle
+CD_M2020XXX0107,2020,1,72,23,Fremantle vs Geelong Cats,away,4,4,1,28,-16,Geelong Cats
+CD_M2020XXX0201,2020,2,44,28,Western Bulldogs vs Melbourne,home,0,2,Inf,12,-20,Western Bulldogs
+CD_M2020XXX0201,2020,2,44,28,Western Bulldogs vs Melbourne,away,8,4,0.5,32,20,Melbourne
+CD_M2020XXX0202,2020,2,56,22,Kangaroos vs GWS Giants,home,1,6,6,37,18,Kangaroos
+CD_M2020XXX0202,2020,2,56,22,Kangaroos vs GWS Giants,away,7,2,0.285714286,19,-18,GWS Giants
+CD_M2020XXX0203,2020,2,55,30,Gold Coast Suns vs Richmond Tigers,home,3,5,1.666666667,33,11,Gold Coast Suns
+CD_M2020XXX0203,2020,2,55,30,Gold Coast Suns vs Richmond Tigers,away,10,2,0.2,22,-11,Richmond Tigers
+CD_M2020XXX0204,2020,2,75,23,West Coast Eagles vs Fremantle,home,3,2,0.666666667,15,-45,West Coast Eagles
+CD_M2020XXX0204,2020,2,75,23,West Coast Eagles vs Fremantle,away,6,9,1.5,60,45,Fremantle
+CD_M2020XXX0205,2020,2,59,23,Geelong Cats vs Brisbane Lions,home,2,3,1.5,20,-19,Geelong Cats
+CD_M2020XXX0205,2020,2,59,23,Geelong Cats vs Brisbane Lions,away,3,6,2,39,19,Brisbane Lions
+CD_M2020XXX0206,2020,2,63,28,Carlton vs Collingwood,home,6,3,0.5,24,-15,Carlton
+CD_M2020XXX0206,2020,2,63,28,Carlton vs Collingwood,away,3,6,3,39,15,Collingwood
+CD_M2020XXX0207,2020,2,67,25,Adelaide Crows vs St Kilda,home,4,6,1.5,40,13,Adelaide Crows
+CD_M2020XXX0207,2020,2,67,25,Adelaide Crows vs St Kilda,away,3,4,1.333333333,27,-13,St Kilda
+CD_M2020XXX0301,2020,3,33,20,St Kilda vs Melbourne,home,1,3,3,19,5,St Kilda
+CD_M2020XXX0301,2020,3,33,20,St Kilda vs Melbourne,away,8,1,0.125,14,-5,Melbourne
+CD_M2020XXX0302,2020,3,81,20,Western Bulldogs vs Carlton,home,6,4,0.666666667,30,-21,Western Bulldogs
+CD_M2020XXX0302,2020,3,81,20,Western Bulldogs vs Carlton,away,3,8,2.666666667,51,21,Carlton
+CD_M2020XXX0303,2020,3,56,26,Gold Coast Suns vs Brisbane Lions,home,4,4,1,28,0,Gold Coast Suns
+CD_M2020XXX0303,2020,3,56,26,Gold Coast Suns vs Brisbane Lions,away,4,4,1,28,0,Brisbane Lions
+CD_M2020XXX0304,2020,3,63,26,Fremantle vs Collingwood,home,3,5,1.666666667,33,3,Fremantle
+CD_M2020XXX0304,2020,3,63,26,Fremantle vs Collingwood,away,6,4,0.666666667,30,-3,Collingwood
+CD_M2020XXX0305,2020,3,56,23,GWS Giants vs West Coast Eagles,home,6,6,1,42,28,GWS Giants
+CD_M2020XXX0305,2020,3,56,23,GWS Giants vs West Coast Eagles,away,2,2,1,14,-28,West Coast Eagles
+CD_M2020XXX0306,2020,3,96,34,Richmond Tigers vs Kangaroos,home,8,2,0.25,20,-56,Richmond Tigers
+CD_M2020XXX0306,2020,3,96,34,Richmond Tigers vs Kangaroos,away,4,12,3,76,56,Kangaroos
+CD_M2020XXX0307,2020,3,87,23,Geelong Cats vs Adelaide Crows,home,2,6,3,38,-11,Geelong Cats
+CD_M2020XXX0307,2020,3,87,23,Geelong Cats vs Adelaide Crows,away,1,8,8,49,11,Adelaide Crows
+CD_M2020XXX0401,2020,4,72,19,Collingwood vs Melbourne,home,2,4,2,26,-20,Collingwood
+CD_M2020XXX0401,2020,4,72,19,Collingwood vs Melbourne,away,4,7,1.75,46,20,Melbourne
+CD_M2020XXX0402,2020,4,112,27,Richmond Tigers vs Geelong Cats,home,3,7,2.333333333,45,-22,Richmond Tigers
+CD_M2020XXX0402,2020,4,112,27,Richmond Tigers vs Geelong Cats,away,7,10,1.428571429,67,22,Geelong Cats
+CD_M2020XXX0403,2020,4,81,23,Kangaroos vs Gold Coast Suns,home,11,6,0.545454545,47,13,Kangaroos
+CD_M2020XXX0403,2020,4,81,23,Kangaroos vs Gold Coast Suns,away,4,5,1.25,34,-13,Gold Coast Suns
+CD_M2020XXX0404,2020,4,56,26,West Coast Eagles vs Western Bulldogs,home,6,4,0.666666667,30,4,West Coast Eagles
+CD_M2020XXX0404,2020,4,56,26,West Coast Eagles vs Western Bulldogs,away,8,3,0.375,26,-4,Western Bulldogs
+CD_M2020XXX0405,2020,4,64,28,Adelaide Crows vs Carlton,home,4,4,1,28,-8,Adelaide Crows
+CD_M2020XXX0405,2020,4,64,28,Adelaide Crows vs Carlton,away,6,5,0.833333333,36,8,Carlton
+CD_M2020XXX0406,2020,4,47,32,St Kilda vs Fremantle,home,5,3,0.6,23,-1,St Kilda
+CD_M2020XXX0406,2020,4,47,32,St Kilda vs Fremantle,away,6,3,0.5,24,1,Fremantle
+CD_M2020XXX0407,2020,4,74,30,Brisbane Lions vs GWS Giants,home,9,7,0.777777778,51,28,Brisbane Lions
+CD_M2020XXX0407,2020,4,74,30,Brisbane Lions vs GWS Giants,away,5,3,0.6,23,-28,GWS Giants
