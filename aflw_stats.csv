@@ -191,3 +191,115 @@ CD_M20192640802,2019,8,80,18,Adelaide Crows vs Geelong Cats,away,1,1,1,7,-66,Gee
 CD_M20192640802,2019,8,80,18,Adelaide Crows vs Geelong Cats,home,7,11,1.57142857142857,73,66,Adelaide Crows
 CD_M20192640901,2019,9,81,18,Adelaide Crows vs Carlton,away,6,2,0.333333333333333,18,-45,Carlton
 CD_M20192640901,2019,9,81,18,Adelaide Crows vs Carlton,home,3,10,3.33333333333333,63,45,Adelaide Crows
+CD_M20202640101,2020,1,62,26,Richmond vs Carlton,away,12,6,0.5,48,34,Carlton
+CD_M20202640101,2020,1,62,26,Richmond vs Carlton,home,2,2,1,14,-34,Richmond
+CD_M20202640102,2020,1,17,21,GWS Giants vs Gold Coast Suns,away,2,1,0.5,8,-1,Gold Coast Suns
+CD_M20202640102,2020,1,17,21,GWS Giants vs Gold Coast Suns,home,3,1,0.333333333333333,9,1,GWS Giants
+CD_M20202640103,2020,1,42,28,Melbourne vs Kangaroos,away,2,3,1.5,20,-2,Kangaroos
+CD_M20202640103,2020,1,42,28,Melbourne vs Kangaroos,home,4,3,0.75,22,2,Melbourne
+CD_M20202640104,2020,1,55,18,Brisbane Lions vs Adelaide Crows,away,3,3,1,21,-13,Adelaide Crows
+CD_M20202640104,2020,1,55,18,Brisbane Lions vs Adelaide Crows,home,4,5,1.25,34,13,Brisbane Lions
+CD_M20202640105,2020,1,49,26,Collingwood vs West Coast Eagles,away,5,1,0.2,11,-27,West Coast Eagles
+CD_M20202640105,2020,1,49,26,Collingwood vs West Coast Eagles,home,8,5,0.625,38,27,Collingwood
+CD_M20202640106,2020,1,53,26,St Kilda vs Western Bulldogs,away,3,6,2,39,25,Western Bulldogs
+CD_M20202640106,2020,1,53,26,St Kilda vs Western Bulldogs,home,2,2,1,14,-25,St Kilda
+CD_M20202640107,2020,1,72,18,Fremantle vs Geelong Cats,away,4,4,1,28,-16,Geelong Cats
+CD_M20202640107,2020,1,72,18,Fremantle vs Geelong Cats,home,8,6,0.75,44,16,Fremantle
+CD_M20202640201,2020,2,44,31,Western Bulldogs vs Melbourne,away,8,4,0.5,32,20,Melbourne
+CD_M20202640201,2020,2,44,31,Western Bulldogs vs Melbourne,home,0,2,Inf,12,-20,Western Bulldogs
+CD_M20202640202,2020,2,56,25,Kangaroos vs GWS Giants,away,7,2,0.285714285714286,19,-18,GWS Giants
+CD_M20202640202,2020,2,56,25,Kangaroos vs GWS Giants,home,1,6,6,37,18,Kangaroos
+CD_M20202640203,2020,2,55,18,Gold Coast Suns vs Richmond,away,10,2,0.2,22,-11,Richmond
+CD_M20202640203,2020,2,55,18,Gold Coast Suns vs Richmond,home,3,5,1.66666666666667,33,11,Gold Coast Suns
+CD_M20202640204,2020,2,75,18,West Coast Eagles vs Fremantle,away,6,9,1.5,60,45,Fremantle
+CD_M20202640204,2020,2,75,18,West Coast Eagles vs Fremantle,home,3,2,0.666666666666667,15,-45,West Coast Eagles
+CD_M20202640205,2020,2,59,23,Geelong Cats vs Brisbane Lions,away,3,6,2,39,19,Brisbane Lions
+CD_M20202640205,2020,2,59,23,Geelong Cats vs Brisbane Lions,home,2,3,1.5,20,-19,Geelong Cats
+CD_M20202640206,2020,2,63,25,Carlton vs Collingwood,away,3,6,2,39,15,Collingwood
+CD_M20202640206,2020,2,63,25,Carlton vs Collingwood,home,6,3,0.5,24,-15,Carlton
+CD_M20202640207,2020,2,67,18,Adelaide Crows vs St Kilda,away,3,4,1.33333333333333,27,-13,St Kilda
+CD_M20202640207,2020,2,67,18,Adelaide Crows vs St Kilda,home,4,6,1.5,40,13,Adelaide Crows
+CD_M20202640301,2020,3,33,20,St Kilda vs Melbourne,away,8,1,0.125,14,-5,Melbourne
+CD_M20202640301,2020,3,33,20,St Kilda vs Melbourne,home,1,3,3,19,5,St Kilda
+CD_M20202640302,2020,3,81,22,Western Bulldogs vs Carlton,away,3,8,2.66666666666667,51,21,Carlton
+CD_M20202640302,2020,3,81,22,Western Bulldogs vs Carlton,home,6,4,0.666666666666667,30,-21,Western Bulldogs
+CD_M20202640303,2020,3,56,18,Gold Coast Suns vs Brisbane Lions,away,4,4,1,28,0,Brisbane Lions
+CD_M20202640303,2020,3,56,18,Gold Coast Suns vs Brisbane Lions,home,4,4,1,28,0,Gold Coast Suns
+CD_M20202640304,2020,3,63,18,Fremantle vs Collingwood,away,6,4,0.666666666666667,30,-3,Collingwood
+CD_M20202640304,2020,3,63,18,Fremantle vs Collingwood,home,3,5,1.66666666666667,33,3,Fremantle
+CD_M20202640305,2020,3,56,26,GWS Giants vs West Coast Eagles,away,2,2,1,14,-28,West Coast Eagles
+CD_M20202640305,2020,3,56,26,GWS Giants vs West Coast Eagles,home,6,6,1,42,28,GWS Giants
+CD_M20202640306,2020,3,96,31,Richmond vs Kangaroos,away,4,12,3,76,56,Kangaroos
+CD_M20202640306,2020,3,96,31,Richmond vs Kangaroos,home,8,2,0.25,20,-56,Richmond
+CD_M20202640307,2020,3,87,30,Geelong Cats vs Adelaide Crows,away,1,8,8,49,11,Adelaide Crows
+CD_M20202640307,2020,3,87,30,Geelong Cats vs Adelaide Crows,home,2,6,3,38,-11,Geelong Cats
+CD_M20202640401,2020,4,72,19,Collingwood vs Melbourne,away,4,7,1.75,46,20,Melbourne
+CD_M20202640401,2020,4,72,19,Collingwood vs Melbourne,home,2,4,2,26,-20,Collingwood
+CD_M20202640402,2020,4,112,28,Richmond vs Geelong Cats,away,7,10,1.42857142857143,67,22,Geelong Cats
+CD_M20202640402,2020,4,112,28,Richmond vs Geelong Cats,home,3,7,2.33333333333333,45,-22,Richmond
+CD_M20202640403,2020,4,81,23,Kangaroos vs Gold Coast Suns,away,4,5,1.25,34,-13,Gold Coast Suns
+CD_M20202640403,2020,4,81,23,Kangaroos vs Gold Coast Suns,home,11,6,0.545454545454545,47,13,Kangaroos
+CD_M20202640404,2020,4,56,18,West Coast Eagles vs Western Bulldogs,away,8,3,0.375,26,-4,Western Bulldogs
+CD_M20202640404,2020,4,56,18,West Coast Eagles vs Western Bulldogs,home,6,4,0.666666666666667,30,4,West Coast Eagles
+CD_M20202640405,2020,4,64,18,Adelaide Crows vs Carlton,away,6,5,0.833333333333333,36,8,Carlton
+CD_M20202640405,2020,4,64,18,Adelaide Crows vs Carlton,home,4,4,1,28,-8,Adelaide Crows
+CD_M20202640406,2020,4,47,32,St Kilda vs Fremantle,away,6,3,0.5,24,1,Fremantle
+CD_M20202640406,2020,4,47,32,St Kilda vs Fremantle,home,5,3,0.6,23,-1,St Kilda
+CD_M20202640407,2020,4,74,18,Brisbane Lions vs GWS Giants,away,5,3,0.6,23,-28,GWS Giants
+CD_M20202640407,2020,4,74,18,Brisbane Lions vs GWS Giants,home,9,7,0.777777777777778,51,28,Brisbane Lions
+CD_M20202640501,2020,5,56,18,Gold Coast Suns vs Geelong Cats,away,8,5,0.625,38,20,Geelong Cats
+CD_M20202640501,2020,5,56,18,Gold Coast Suns vs Geelong Cats,home,6,2,0.333333333333333,18,-20,Gold Coast Suns
+CD_M20202640502,2020,5,84,16,Kangaroos vs Adelaide Crows,away,3,3,1,21,-42,Adelaide Crows
+CD_M20202640502,2020,5,84,16,Kangaroos vs Adelaide Crows,home,9,9,1,63,42,Kangaroos
+CD_M20202640503,2020,5,67,26,GWS Giants vs Richmond,away,5,1,0.2,11,-45,Richmond
+CD_M20202640503,2020,5,67,26,GWS Giants vs Richmond,home,14,7,0.5,56,45,GWS Giants
+CD_M20202640504,2020,5,79,21,Carlton vs St Kilda,away,5,4,0.8,29,-21,St Kilda
+CD_M20202640504,2020,5,79,21,Carlton vs St Kilda,home,2,8,4,50,21,Carlton
+CD_M20202640505,2020,5,74,20,Collingwood vs Western Bulldogs,away,3,3,1,21,-32,Western Bulldogs
+CD_M20202640505,2020,5,74,20,Collingwood vs Western Bulldogs,home,5,8,1.6,53,32,Collingwood
+CD_M20202640506,2020,5,73,22,Melbourne vs West Coast Eagles,away,1,1,1,7,-59,West Coast Eagles
+CD_M20202640506,2020,5,73,22,Melbourne vs West Coast Eagles,home,6,10,1.66666666666667,66,59,Melbourne
+CD_M20202640507,2020,5,82,18,Fremantle vs Brisbane Lions,away,8,4,0.5,32,-18,Brisbane Lions
+CD_M20202640507,2020,5,82,18,Fremantle vs Brisbane Lions,home,8,7,0.875,50,18,Fremantle
+CD_M20202640601,2020,6,86,29,Geelong Cats vs Kangaroos,away,6,10,1.66666666666667,66,46,Kangaroos
+CD_M20202640601,2020,6,86,29,Geelong Cats vs Kangaroos,home,2,3,1.5,20,-46,Geelong Cats
+CD_M20202640602,2020,6,57,18,Brisbane Lions vs Collingwood,away,13,5,0.384615384615385,43,29,Collingwood
+CD_M20202640602,2020,6,57,18,Brisbane Lions vs Collingwood,home,2,2,1,14,-29,Brisbane Lions
+CD_M20202640603,2020,6,45,18,St Kilda vs Richmond,away,3,0,0,3,-39,Richmond
+CD_M20202640603,2020,6,45,18,St Kilda vs Richmond,home,6,6,1,42,39,St Kilda
+CD_M20202640604,2020,6,64,18,Melbourne vs Carlton,away,4,6,1.5,40,16,Carlton
+CD_M20202640604,2020,6,64,18,Melbourne vs Carlton,home,6,3,0.5,24,-16,Melbourne
+CD_M20202640605,2020,6,NA,NA,Western Bulldogs vs Fremantle,away,NA,NA,NA,NA,NA,Fremantle
+CD_M20202640605,2020,6,NA,NA,Western Bulldogs vs Fremantle,home,NA,NA,NA,NA,NA,Western Bulldogs
+CD_M20202640606,2020,6,NA,NA,Adelaide Crows vs GWS Giants,away,NA,NA,NA,NA,NA,GWS Giants
+CD_M20202640606,2020,6,NA,NA,Adelaide Crows vs GWS Giants,home,NA,NA,NA,NA,NA,Adelaide Crows
+CD_M20202640607,2020,6,NA,NA,West Coast Eagles vs Gold Coast Suns,away,NA,NA,NA,NA,NA,Gold Coast Suns
+CD_M20202640607,2020,6,NA,NA,West Coast Eagles vs Gold Coast Suns,home,NA,NA,NA,NA,NA,West Coast Eagles
+CD_M20202640701,2020,7,NA,NA,Richmond vs Brisbane Lions,away,NA,NA,NA,NA,NA,Brisbane Lions
+CD_M20202640701,2020,7,NA,NA,Richmond vs Brisbane Lions,home,NA,NA,NA,NA,NA,Richmond
+CD_M20202640702,2020,7,NA,NA,Carlton vs West Coast Eagles,away,NA,NA,NA,NA,NA,West Coast Eagles
+CD_M20202640702,2020,7,NA,NA,Carlton vs West Coast Eagles,home,NA,NA,NA,NA,NA,Carlton
+CD_M20202640703,2020,7,NA,NA,Kangaroos vs Western Bulldogs,away,NA,NA,NA,NA,NA,Western Bulldogs
+CD_M20202640703,2020,7,NA,NA,Kangaroos vs Western Bulldogs,home,NA,NA,NA,NA,NA,Kangaroos
+CD_M20202640704,2020,7,NA,NA,GWS Giants vs Geelong Cats,away,NA,NA,NA,NA,NA,Geelong Cats
+CD_M20202640704,2020,7,NA,NA,GWS Giants vs Geelong Cats,home,NA,NA,NA,NA,NA,GWS Giants
+CD_M20202640705,2020,7,NA,NA,Gold Coast Suns vs Adelaide Crows,away,NA,NA,NA,NA,NA,Adelaide Crows
+CD_M20202640705,2020,7,NA,NA,Gold Coast Suns vs Adelaide Crows,home,NA,NA,NA,NA,NA,Gold Coast Suns
+CD_M20202640706,2020,7,NA,NA,Fremantle vs Melbourne,away,NA,NA,NA,NA,NA,Melbourne
+CD_M20202640706,2020,7,NA,NA,Fremantle vs Melbourne,home,NA,NA,NA,NA,NA,Fremantle
+CD_M20202640707,2020,7,NA,NA,Collingwood vs St Kilda,away,NA,NA,NA,NA,NA,St Kilda
+CD_M20202640707,2020,7,NA,NA,Collingwood vs St Kilda,home,NA,NA,NA,NA,NA,Collingwood
+CD_M20202640801,2020,8,NA,NA,Western Bulldogs vs GWS Giants,away,NA,NA,NA,NA,NA,GWS Giants
+CD_M20202640801,2020,8,NA,NA,Western Bulldogs vs GWS Giants,home,NA,NA,NA,NA,NA,Western Bulldogs
+CD_M20202640802,2020,8,NA,NA,Carlton vs Fremantle,away,NA,NA,NA,NA,NA,Fremantle
+CD_M20202640802,2020,8,NA,NA,Carlton vs Fremantle,home,NA,NA,NA,NA,NA,Carlton
+CD_M20202640803,2020,8,NA,NA,Geelong Cats vs Collingwood,away,NA,NA,NA,NA,NA,Collingwood
+CD_M20202640803,2020,8,NA,NA,Geelong Cats vs Collingwood,home,NA,NA,NA,NA,NA,Geelong Cats
+CD_M20202640804,2020,8,NA,NA,Brisbane Lions vs Kangaroos,away,NA,NA,NA,NA,NA,Kangaroos
+CD_M20202640804,2020,8,NA,NA,Brisbane Lions vs Kangaroos,home,NA,NA,NA,NA,NA,Brisbane Lions
+CD_M20202640805,2020,8,NA,NA,Adelaide Crows vs Richmond,away,NA,NA,NA,NA,NA,Richmond
+CD_M20202640805,2020,8,NA,NA,Adelaide Crows vs Richmond,home,NA,NA,NA,NA,NA,Adelaide Crows
+CD_M20202640806,2020,8,NA,NA,Melbourne vs Gold Coast Suns,away,NA,NA,NA,NA,NA,Gold Coast Suns
+CD_M20202640806,2020,8,NA,NA,Melbourne vs Gold Coast Suns,home,NA,NA,NA,NA,NA,Melbourne
+CD_M20202640807,2020,8,NA,NA,West Coast Eagles vs St Kilda,away,NA,NA,NA,NA,NA,St Kilda
+CD_M20202640807,2020,8,NA,NA,West Coast Eagles vs St Kilda,home,NA,NA,NA,NA,NA,West Coast Eagles
