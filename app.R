@@ -8,7 +8,7 @@ customPurp <- '#3b1876'
 customOrng <- '#ff5e45'
 customGry <- '#6b748b'
 
-aflw_score_stats <- read_csv("aflw_stats_2020.csv")
+aflw_score_stats <- read_csv("aflw_stats.csv")
 metriclabels <- c(score = "Score", scorediff = "Score difference", ratio = "Goal to behind ratio")
 
 # Define UI for application that draws a histogram
