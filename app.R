@@ -60,7 +60,13 @@ ui <- fluidPage(
          ),
          #Render plots
          mainPanel(
-           plotOutput("linePlot")
+           fluidRow(
+             plotOutput("linePlot")
+           ),
+           #DEV Remove this before merging into master
+           fluidRow(
+             selectInput("test","Test",choices = c("Test"))
+           )
          )
        )
     ),
